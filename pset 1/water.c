@@ -3,7 +3,6 @@
  *    CS50 : Problem Set 1 water
 **/
 
-
 #include<stdio.h>
 #include<cs50.h>
 
@@ -17,7 +16,7 @@ int shower(int mint){
 
 int main(void){
 
-    printf("Minutes: ");
-    int mint=get_int();
-    printf("Bottles: %d\n", shower(mint));
+    printf("minutes: ");
+    int mint=GetInt();
+    printf("bottles: %d\n", shower(mint));
 }
