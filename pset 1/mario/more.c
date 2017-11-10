@@ -1,6 +1,6 @@
 /**
  *    Author:  Maged M. AbdurRahman El-Najaar
- *    CS50 : Problem Set 1 mario less
+ *    CS50 : Problem Set 1 mario more
 **/
 
 
